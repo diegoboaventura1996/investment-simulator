@@ -29,7 +29,7 @@ This simulator allows users to visualize how their monthly contributions, combin
 
 > *Replace this placeholder with a real screenshot of your spreadsheet to showcase your work.*
 
-![Simulator Preview](./preview.png)
+![Simulator Preview](./project-screenshot.png)
 
 ---
 
